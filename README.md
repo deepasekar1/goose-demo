@@ -1,2 +1,1 @@
-# goose-demo
-Demo repository for goose
+this was written by goose
